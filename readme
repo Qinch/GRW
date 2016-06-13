@@ -1,5 +1,5 @@
-// the Generic Random Walk(GRW) method for 3-D thermal analysis of IC
-//用于IC芯片热分析的随机行走算法
+###  the Generic Random Walk(GRW) method for 3-D thermal analysis of IC
+## 用于IC芯片热分析的随机行走算法
 written :  qinchao;
 created :  2014-09-22 21:17:58;
 modified:  2014-10-01 13:07:17;
